@@ -10,7 +10,7 @@
 > [Download](cryptolocker.zip)
 
 ## Write-up
-
+8文字のkeyを2文字ずつ4分割してSHA-256でハッシュ化し、それぞれをkeyとしてAES-CBCで4回暗号化を重ねている。2文字ずつブルートフォースして復号結果のパディング長が正しい値になるかをチェックしてkeyを特定していく。
 [solver.py](solver.py)
 
 ## Other write-ups and resources
