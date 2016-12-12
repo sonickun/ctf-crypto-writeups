@@ -9,8 +9,7 @@
 
 
 ## Write-up
-
-RSA$B$N(Bd, n, c$B$N%Z%"$,EO$5$l!"(Be$B$NCM$r5a$a$kI,MW$,$"$k!#(Bd$B$,Bg$-$$$H(Be$B$,AjBPE*$K>.$5$/$J$k$3$H$rMxMQ$7$F5U(BWiener's Attack$B$r9T$&$H(Be$B$,5a$^$k!#(BSage$B$r;H$&$HMF0W$KO"J,?t$N7W;;$,$G$-$k!#(B
+RSAのd, n, cのペアが渡され、eの値を求める必要がある。dが大きいとeが相対的に小さくなることを利用して逆Wiener's Attackを行うとeが求まる。Sageを使うと容易に連分数の計算ができる。
 [solver.py](solver.py)
 
 ## Other write-ups and resources
