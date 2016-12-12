@@ -10,7 +10,8 @@
 
 ## Write-up
 RSAのd, n, cのペアが渡され、eの値を求める必要がある。
-dが大きいとeが相対的に小さくなることを利用して逆Wiener's Attackを行うとeが求まる。Sageを使うと容易に連分数の計算ができる。
+dが大きいとeが相対的に小さくなることを利用して逆Wiener's Attackを行うとeが求まる。
+Sageを使うと容易に連分数の計算ができる。
 [solver.py](solver.py)
 
 ## Other write-ups and resources
