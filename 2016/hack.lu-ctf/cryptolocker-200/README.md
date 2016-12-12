@@ -11,7 +11,7 @@
 
 ## Write-up
 
-(TODO)
+[solver.py](solver.py)
 
 ## Other write-ups and resources
 
