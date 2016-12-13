@@ -1,5 +1,5 @@
-# CTF Crypto Writeups
-これまでに自分が解いたCTFの暗号分野のWriteupをまとめた場所
+# CTF Crypto Writeups  by sonickun
+これまでに自分が解いたCTFの暗号問題のWriteupをまとめた場所
 
 -- ここに問題一覧を作る --
 
