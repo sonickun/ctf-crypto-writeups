@@ -41,6 +41,7 @@ $ nc 54.197.195.247 4321
 ====================
 ```
 [My slideshre](http://www.slideshare.net/sonickun/katagaitai-ctf-5-med-parlor-plaid-ctf-2014)
+
 [solver.py](solver.py)
 
 ## Other write-ups and resources
