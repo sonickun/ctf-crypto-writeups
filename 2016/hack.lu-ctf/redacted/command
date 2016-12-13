@@ -1,0 +1,62 @@
+# python rsatool.py -p 0x00e4ddba96c1cbc4f41204ee6fc16e14830438aeee4bbd21af5ce88dfd25a12f2a9a26994eefa0e6bed04ac2e29bf639b4c8f975ad886f3115ec5e384cc68c1fd7d7db63cc63f6346152809c71d226223d7d6990cae64dfc16f174fa1a6ee46b25afaffcf3936a61d3f2c69d6cee994feff8f2f0a70638420110d303d075ab16d3 -q 0x00dee55998947bfdb75c7e349bc76a1673a8c41b62929c242c0e3d0c808738972518f8639304b3340d6a88510cc524e37963a42d0638f605572aa7b93eda07dc29457118fa9a990062f05d0025d5467d3edf8db448cf12ed4ab67967be70c2a5617b3085d0e151357d63b1eca4b53746fcbe586cdc8a4405cfaf719f3f011318db -o test.key
+Using (p, q) to initialise RSA instance
+
+n =
+c7455240232e4c309b7afda495ccd5ff4a9cd78e945d76c6713955e12a5da435cdf967bd011d643b
+3d417797075f8def866a8cb9f02745acbe78c4920b15dc36365f6c1dd71c9b900bc702a2f21c00e6
+711446857236b5c31106e4c1d3ee5bd7c785342aadb6a7d176df7edcb7ce1d78dfe992857e1a3473
+0756186ca4c200dec2a97f33b36c789fd7bb5866fbd68e83d823eae64c9e2d740f2f09d0383b39d5
+1aaeb190858e8a3b6ad9cbab8d935aa1bd01d1cbba238af4df8455d7d789c71ee6091f711e766f63
+3a0420f530adb70495066070a07073fcb01d21cc2fd5648d9f5475d769697d3e325868315ab8e50e
+73500f4c2d0b8548ce38e01338294e81
+
+e = 65537 (0x10001)
+
+d =
+305b823a4e4f4dedfdcd3b0055d9ff949466bb68be58701a781f91d7b29046e947b2de99df4b62a7
+7d96058f811a8f3731476a1f354852803938d57b1b75929b1556d2c5eb0de6326ea93cda8e267d91
+6e9f9cfd855a0181f4ffd743b24a85bf378bfbbcdfab13cea12a5b7ef49bf04b050b89a31b970063
+69c45ae9029291e30f789b3fd3dab4cd3b3b88b74890b357eec0f007535b2558c57604ade36522c3
+9cfe22baba439407478059d630747d752df521f88f44a0fed288d98e254840a259b46d451bb8e160
+f2594685ec68ff6cef2dbb563134f44deb0e6d467e8ebf95516d51efa7b10bbb0f20a4a6cd9c5259
+9d67063dc8c07a0a48589cf5ec5a3281
+
+p =
+e4ddba96c1cbc4f41204ee6fc16e14830438aeee4bbd21af5ce88dfd25a12f2a9a26994eefa0e6be
+d04ac2e29bf639b4c8f975ad886f3115ec5e384cc68c1fd7d7db63cc63f6346152809c71d226223d
+7d6990cae64dfc16f174fa1a6ee46b25afaffcf3936a61d3f2c69d6cee994feff8f2f0a706384201
+10d303d075ab16d3
+
+q =
+dee55998947bfdb75c7e349bc76a1673a8c41b62929c242c0e3d0c808738972518f8639304b3340d
+6a88510cc524e37963a42d0638f605572aa7b93eda07dc29457118fa9a990062f05d0025d5467d3e
+df8db448cf12ed4ab67967be70c2a5617b3085d0e151357d63b1eca4b53746fcbe586cdc8a4405cf
+af719f3f011318db
+
+Saving PEM as test.key
+
+# ssh berlin@cthulhu.fluxfingers.net -p 1504 -i test.key
+Welcome to Ubuntu 14.04.5 LTS (GNU/Linux 3.13.0-65-generic x86_64)
+
+ * Documentation:  https://help.ubuntu.com/
+
+The programs included with the Ubuntu system are free software;
+the exact distribution terms for each program are described in the
+individual files in /usr/share/doc/*/copyright.
+
+Ubuntu comes with ABSOLUTELY NO WARRANTY, to the extent permitted by
+applicable law.
+
+
+The programs included with the Ubuntu system are free software;
+the exact distribution terms for each program are described in the
+individual files in /usr/share/doc/*/copyright.
+
+Ubuntu comes with ABSOLUTELY NO WARRANTY, to the extent permitted by
+applicable law.
+
+Last login: Wed Oct 26 06:59:29 2016 from ad055196.dynamic.ppp.asahi-net.or.jp
+Congratz! The flag is:
+flag{thought_ssh_privkeys_are_secure?}
+Connection to cthulhu.fluxfingers.net closed.
+
