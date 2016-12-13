@@ -5,7 +5,9 @@
 **Solves:** 18
 **Description:**
 
-> [Download]()
+Can you login as admin?
+http://biscuiti.pwn.seccon.jp/
+> [biscuiti.zip](biscuiti.zip)
 
 ## Write-up
 SQL Injection & Padding Oracle Attack
