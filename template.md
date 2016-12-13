@@ -1,9 +1,9 @@
 # CTF NAME : PROBLEM NAME
 
-**Category:** Crypto  
-**Points:**  
-**Solves:**  
-**Description:**  
+**Category:** Crypto-
+**Points:** 
+**Solves:** 
+**Description:** 
 
 PROBLEM HERE
 
