@@ -1,9 +1,9 @@
-# CTF NAME : PROBLEM NAME
+# TETCON CTF : The Poodle Attack 
 
-**Category:** Crypto  
-**Points:**  
-**Solves:**  
-**Description:**  
+**Category:** Crypto 
+**Points:** 
+**Solves:** 
+**Description:** 
 
 >Source: http://pastebin.com/Mr6PJBwn (my mirror: https://l4w.io/files/CTFs/tetcon-2015/crypto200.py)--
 >Server: http://crypto-class.appspot.com/tetcon
