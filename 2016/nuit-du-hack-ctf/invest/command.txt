@@ -1,0 +1,1 @@
+openssl enc -d -aes-256-cbc -pass pass:4Ukz95F2YqPi -in encrypt.data > plain.data
