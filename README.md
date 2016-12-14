@@ -27,6 +27,7 @@
 | 2016 | Nuit du Hack CTF Quals | [Invest](2016/nuit-du-hack-ctf/invest/) | 50 | Original | Pcap Forensic, 論理回路 | C |
 | 2016 | SECCON CTF quqls | [biscuiti](2016/seccon-ctf-quals/biscuiti/) | 300 | AES | SQLインジェクション, CBCモード, Paddin oracle attack | A |
 | 2016 | Sharif University CTF | [High-speed RSA Keygen](2016/su-ctf/high-speed-rsa-keygen/) | 150 | RSA | Coppersmithの定理, High-bit Known Attack | B |  |
+| 2016 | CSAW CTF | [regrexpire](2016/csaw-ctf-quals/regexpire/) | 100 | - | Programing, 正規表現 | C |
 | 2015 | Hack.lu CTF | [Creative Cheating](2015/hack.lu-ctf/creative-cheating/) | 150 | RSA | Pcap Forensic, Signatures | C |
 | 2015 | MMA CTF | [Alicegame](2015/mma-ctf/alice-game/) | 250 | ElGamal | Pohlig–Hellman algorithm, Baby-step Giant-step algorithm | A |
 | 2015 | Plaid CTF | [Strength](2015/plaid-ctf/strength/) | 110 | RSA | Common Modulus Attack | C |
@@ -34,7 +35,12 @@
 | 2015 | セキュリティ・キャンプ | [Broken RSA](2015/security-camp/broken-rsa/) | ??? | RSA | Multi-prime RSA | C |
 | 2015 | TETCON CTF | [The Poodle Attack](2015/tetcon-ctf/the-poodle-attack/) | 200 | AES | Poodle, CBCモード, Padding oracle attack | A |
 | 2015 | Trend Micro CTF | [AnswerMe](2015/trend-micro-ctf/answerme/) | ??? | ChaCha | ChaCha, ストリーム暗号, Salsa20 | C |
-
+| 2014 | Hack You | [Hashme](2014/hack-you/Hashme/) | 200 | - | Hash, Merkle-Damgård構造, Length-extension attack | B |
+| 2014 | HITCON CTF | [rsaha](2014/hitcon-ctf/rsaha/) | 200 | RSA | Franklin-Reiterrelated-message attack | B |
+| 2014 | Plaid CTF | [Parlor](2014/plaid-ctf/parlor/) | 200 | - | MD5, Length-extension attack | S |
+| 2013 | SECCON CTF quals | [Cryptanalysis](2013/seccon-ctf-quals/cryptanalysis/) | 300 | 楕円曲線暗号 | 列挙法 | C |
+| 2011 | CODEGATE CTF | [Crypto 400](2011/codegate-ctf/crypto-400/) | 400 | AES | CBDモード, Padding oracle attack | B |
+| 2015 |  | []() |  |  |  |  |
 
 
 Problem files are often exported from <https://github.com/ctfs>
