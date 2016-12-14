@@ -12,6 +12,7 @@ Chad
 ## Write-up
 
 ![](Smth_prEtTy_s1mil4r_t0_crYpto_scCHem3_f536e2a0a525f61af5579c5b34fbe045.png)
+
 独自のFeistel構造を持つブロック暗号を解読する問題。復号処理を実装し、keyがラウンド数に等しいと仮定してラウンド数をブルートフォースすると既知の平文に復号でき、keyが求まる。
 
 [solver.py](solver.py)
