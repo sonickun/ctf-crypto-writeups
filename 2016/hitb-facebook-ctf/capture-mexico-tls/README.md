@@ -9,7 +9,7 @@
 > [Download](tls_16970cb3b09a9dd01f5b82449d9c1795.tar.gz)
 
 ## Write-up
-8文字のkeyを2文字ずつ4分割してSHA-256でハッシュ化し、それぞれをkeyとしてAES-CBCで4回暗号化を重ねている。2文字ずつブルートフォースして復号結果のパディング長が正しい値になるかをチェックしてkeyを特定していく。
+TLSで暗号化された通信ログを復号する問題。複数回あるTLSハンドシェイクの中で一度だけエラーが起こっている（CRT exponentが壊れている）ので、RSA-CRT fault Attackを実行して秘密鍵を作成し、HTTPパケットを復号する。
 
 [solver.py](solver.py)
 
