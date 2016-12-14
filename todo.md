@@ -1,6 +1,6 @@
 # TO DO
 
-- HITCON Quals 2015 sabin
+- HITCON Quals 2015 rsabin
 - Plaid CTF 2016 rabit
 - Plaid CTF 2013 compression
 - Nuit du Hack CTF 2016 Toil33t
