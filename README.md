@@ -1,7 +1,11 @@
 # CTF Crypto Writeups  by sonickun
 これまでに自分が解いたCTFの暗号問題のWriteupをまとめた場所
 
-問題一覧（編集中...）
+[ToDoリスト](todo.md)
+
+※Difficultyの評価は個人の主観に基づいて適当に決めています。
+
+#### 問題一覧
 
 | Year | CTF | Problem | Point | Crypto | Keywords | Difficulty|
 | :--: | :-- | :------ | ----: | :----: | :------- | :-------: |
