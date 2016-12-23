@@ -9,6 +9,8 @@
 
 | Year | CTF | Problem | Point | Crypto | Keywords | Difficulty|
 | :--: | :-- | :------ | ----: | :----: | :------- | :-------: |
+| 2016 | Sharif CTF | [LSB Oracle](2016/sharif/lsb-oracle) | 150 | RSA | LSB Oracle Attack | C |
+| 2016 | Sharif CTF | [TPQ](2016/sharif/tpq) | 150 | RSA | Encryption Oracle, 10 primes | C |
 | 2016 | 0CTF | [RSA?](2016/0ctf/rsa/) | 2    | RSA    | Multi-prime RSA, Low public exponent attack| B |
 | 2016 | Boston Key Party CTF | [Bob's hat](2016/boston-key-party/bobs-hat/) | 4    | RSA | Felmat法, 素数の使いまわし, small prime, Wiener's Attack| C |
 | 2016 | Boston Key Party CTF | [HMAC_CRC](2016/boston-key-party/hmac_crc/)  | 5    | - | CRC(巡回冗長検査) | B |
@@ -49,3 +51,7 @@
 
 Problem files are often exported from <https://github.com/ctfs>
 
+#### History
+- 2016/12/23 Added [LSB Oracle](2016/sharif/lsb-oracle)
+- 2016/12/23 Added [TPQ](2016/sharif/tpq)
+- 2016/12/19 Published "CTF Crypto Writeups by sonickun"
