@@ -28,4 +28,4 @@ p0 = gcd(c01 - c02, c02 - c03)
 
 ## Other write-ups and resources
 
-* [YoloSw4g](https://github.com/Iansus/writeups/blob/master/2016/SharifCTF7/Crypto-TPQ.md)
+*
