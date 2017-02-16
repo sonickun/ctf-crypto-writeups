@@ -24,7 +24,7 @@
 | 2016 | Hack.lu CTF | [Redacted](2016/hack.lu-ctf/redacted/) | 200 | RSA | 秘密鍵読経 | C |
 | 2016 | HITB Facebook CTF | [Capture Mexico-TLS](2016/hitb-facebook-ctf/capture-mexico-tls/) | 200 | RSA | TLS handshake, RSA-CRT fault Attack | B |
 | 2016 | HITCON CTF quals | [Hackpad](2016/hitcon-ctf-quals/hackpad/) | 150 | AES | CBCモード, Paddin oracle attack | C |
-| 2016 | HITCON CTF quals | [PAKE](2016/hitcon-ctf-quals/pake) | PAKE | | DH鍵共有 | B |
+| 2016 | HITCON CTF quals | [PAKE](2016/hitcon-ctf-quals/pake) | 250 |PAKE | DH鍵共有 | B |
 | 2016 | Insomni'hack Teaser CTF | [Bring the noise](2016/insomnihack-teaser/bring-the-noise/) | 200 | - | Programming, Modulo演算 | C |
 | 2016 | Tokyo Westerns CTF | [Backpacker's cihper (easy mode)](2016/mma-ctf-2nd/backpackers-cipher-easy-mode/) | 200 | Original knapsack | Merkle-Hellmanナップサック暗号もどき | A |
 | 2016 | Tokyo Westerns CTF | [ESPer](2016/mma-ctf-2nd/esper/) | 180 |  RSA | RSA-CRT Fault Attack | B |
