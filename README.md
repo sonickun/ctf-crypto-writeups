@@ -9,6 +9,7 @@
 
 | Year | CTF | Problem | Point | Crypto | Keywords | Difficulty|
 | :--: | :-- | :------ | ----: | :----: | :------- | :-------: |
+| 2016 | ASIS CTF | [RSA](2016/asis-ctf/rsa) | 113 | RSA | small Modular | C |
 | 2016 | Sharif CTF | [LSB Oracle](2016/sharif-ctf/lsb-oracle) | 150 | RSA | LSB Oracle Attack | C |
 | 2016 | Sharif CTF | [unterscheide](2016/sharif-ctf/unterscheide) | 200 | AES | フェルマーの小定理 | A |
 | 2016 | Sharif CTF | [TPQ](2016/sharif-ctf/tpq) | 150 | RSA | Encryption Oracle, 10 primes | C |
@@ -54,6 +55,7 @@
 Problem files are often exported from <https://github.com/ctfs>
 
 #### Updates
+- 2017/2/16 Added [RSA](2016/asis-ctf/rsa) |
 - 2017/2/16 Added [unterscheide](2016/sharif-ctf/unterscheide)
 - 2017/2/16 Added [PAKE](2016/hitcon-ctf-quals/pake)
 - 2016/12/23 Added [LSB Oracle](2016/sharif-ctf/lsb-oracle)
