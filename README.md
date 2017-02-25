@@ -41,6 +41,7 @@
 | 2015 | Hack.lu CTF | [Creative Cheating](2015/hack.lu-ctf/creative-cheating/) | 150 | RSA | Pcap Forensic, Signatures | C |
 | 2015 | MMA CTF | [Alicegame](2015/mma-ctf/alice-game/) | 250 | ElGamal | Pohlig–Hellman algorithm, Baby-step Giant-step algorithm | A |
 | 2015 | Plaid CTF | [Strength](2015/plaid-ctf/strength/) | 110 | RSA | Common Modulus Attack | C |
+| 2015 | Plaid CTF | [Lazy](2015/plaid-ctf/Lazy/) | 180 | MHナップザック暗号 | 低密度攻撃、LLLアルゴリズム | B |
 | 2015 | SECCON CTF Quals | [Find the prime numbers](2015/seccon-ctf-quals/find-the-prime-numbers/) | 200 | Paillier | 加法準同型暗号 | B |
 | 2015 | セキュリティ・キャンプ | [Broken RSA](2015/security-camp/broken-rsa/) | ??? | RSA | Multi-prime RSA | C |
 | 2015 | TETCON CTF | [The Poodle Attack](2015/tetcon-ctf/the-poodle-attack/) | 200 | AES | Poodle, CBCモード, Padding oracle attack | A |
@@ -56,6 +57,7 @@
 Problem files are often exported from <https://github.com/ctfs>
 
 #### Updates
+- 2017/2/26 Added [Lazy](2015/plaid-ctf/Lazy/)
 - 2017/2/16 Added [cornelius1](2016/hack.lu-ctf/cornelius1/)
 - 2017/2/16 Added [RSA](2016/asis-ctf/rsa) |
 - 2017/2/16 Added [unterscheide](2016/sharif-ctf/unterscheide)
